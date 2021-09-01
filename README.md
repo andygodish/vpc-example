@@ -15,3 +15,4 @@ Use terraform to stand up an aws vpc with all the basics.
 
 `/modules` will craete the same thing using a terrform aws module
 
+![alt text](./vpc.png)
